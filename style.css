@@ -1,0 +1,98 @@
+.simple_accessible_forms_savemessage{
+font-weight:bold;
+color:rgb(15, 102, 15);
+}
+.simple_accessible_forms_instructions{
+font-weight:bold;
+
+}
+#simple-accessible-forms-options #submit{
+    position:fixed;
+    top: 30%;
+    width: 120px;
+    right: 10%;
+    font-weight: bold;
+    padding: 7px;
+    border: 1px solid #000;
+}
+#simple_accessible_forms_list li{
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 500px;
+    font-weight: bold;
+    text-align:left;
+}
+.simple_accessible_forms_new_form_btn{
+float:right;
+margin: 20px;
+}
+.simple_accessible_forms_form_element, #simple_accessible_forms_add_field, .simple_accessible_forms_field_details{
+background-color: #fff;
+padding: 10px;
+margin-bottom: 20px;
+border: 1px solid;
+}
+
+.simple-accessible-forms-marketing{
+    padding: 10px;
+    padding-top: 0px;
+    border: 1px solid #ccc;
+    float: right;
+    background: #2271b1;
+    color: #fff;
+    margin-right: 20px;
+    margin-top: 17px;
+}
+.simple-accessible-forms-marketing a{
+    color:#fff !important;
+}
+.simple-accessible-forms-marketing h2{
+color:#fff;
+font-size: 150%;
+}
+.simple-accessible-forms-marketing li{
+    list-style: circle;
+    margin-left: 20px;
+}
+#simple_accessible_forms_add_field{
+    display:none;
+}
+.simple_accessible_forms_new_field_btn, .simple_accessible_forms_form_to_correct_button, .simple_accessible_forms_create_btn, .simple_accessible_forms_new_form_btn,.simple_accessible_forms_import{
+    padding: 5px;
+    font-size: 125%;
+    cursor: pointer; 
+    width: 200px;
+    background-color:#fff;
+    border: 1px solid #000;
+}
+.simple_accessible_forms_new_field_btn:focus, .simple_accessible_forms_form_to_correct_button:focus, .simple_accessible_forms_create_btn:focus, .simple_accessible_forms_new_form_btn:focus,.simple_accessible_forms_import:focus{
+    outline:1px solid rgb(77, 144, 254);
+}
+.simple_accessible_fields_formlist{
+    margin-bottom: 40px;
+}
+.simple_accessible_fields_formlist li{
+border: 1px solid #ccc;
+padding: 8px;
+display:block;
+}
+.simple_accessible_forms_field_details{
+    display:none;
+    border-top: 1px solid #ccc;
+margin-top: -5px;
+}
+.simple_accessible_show_fields{
+    cursor:pointer;
+    background-color: #fff;
+}
+.simple_accessible_forms_remove_btn{
+    text-decoration:none;
+    color: rgba(255, 0, 0, 0.603) !important;
+    margin-left: 10px;
+}
+.simple_accessible_forms_list_links{
+    text-decoration:none;
+    color:rgb(3, 3, 59) !important;
+    margin-left: 10px;
+}
